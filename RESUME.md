@@ -15,7 +15,7 @@ I am constantly learning, sharing and learning from experience.
 - writing Python programs to audit infrastructure (vulnerabilities, inventory, misconfiguration);
 - creating service repositories on FreeBSD (using upstream ports, creating custom ports, reporting bugs);
 - installing, configuring and maintaining a monitoring system from scratch (integrating with CMDB, creating templates, data aggregation);
-- maintaining continious interation (CI) and continious delivery (CD) environments;
+- maintaining continuous integration (CI) and continuous delivery (CD) environments;
 - support system of interaction of products with each other (queues, in-memory database, balancers).
 
 11/2008 - 08/2017 | TopView | System Administrator
