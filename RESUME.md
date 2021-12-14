@@ -33,6 +33,6 @@ Engineer specializing in information measuring technology
 
 ### Skills
 
-Hard: DevOps, Infrasracture as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, SQL, Bacula.
+Hard: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, SQL, Bacula.
 
-Soft: Communication, flexebility, leadership, ownership.
+Soft: Communication, flexibility, leadership, ownership.
