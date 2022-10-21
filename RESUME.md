@@ -6,7 +6,7 @@
 ### Summary
 
 Extensive experience in server administration, using open source software, interacting with the community.
-I use modern approaches to solving problems, I try to automate routine tasks as much as possible.
+I use modern approaches to solving problems, try to automate routine tasks as much as possible.
 I am constantly learning, sharing and learning from experience.
 
 ### Experience
@@ -30,6 +30,10 @@ I am constantly learning, sharing and learning from experience.
 Faculty of Information Technology and Business
 
 Engineer specializing in information measuring technology
+
+### Publications
+
+[Fail-safe Zabbix: migrating from asynchronous to group replication](https://habr.com/ru/post/557662/)
 
 ### Skills
 
