@@ -23,6 +23,7 @@ I am constantly learning, sharing and learning from experience.
 04/2022 - present | Senior System Engineer
 
 08/2017 - 03/2022 | System Engineer
+
 - writing Python programs to audit infrastructure (vulnerabilities, inventory, misconfiguration);
 - creating service repositories on FreeBSD (using upstream ports, creating custom ports, reporting bugs);
 - installing, configuring and maintaining a monitoring system from scratch (integrating with CMDB, creating templates, data aggregation);
@@ -30,7 +31,9 @@ I am constantly learning, sharing and learning from experience.
 - support system of interaction of products with each other (queues, in-memory database, balancers).
 
 #### TopView
+
 11/2008 - 08/2017 | System Administrator
+
 - support content filtering solutions using open source software;
 - setting up servers on FreeBSD in different data centers in Russia;
 - the categorized website database was developed using the Django framework.
@@ -39,7 +42,9 @@ I am constantly learning, sharing and learning from experience.
 
 ### Education
 
-2000 - 2005 | Altai State Technical University | Specialist’s
+#### Altai State Technical University
+
+2000 - 2005 | Specialist’s
 
 Faculty of Information Technology and Business
 
