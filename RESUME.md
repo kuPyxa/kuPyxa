@@ -60,6 +60,6 @@ Engineer specializing in information measuring technology
 
 ### Skills
 
-Hard: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, SQL, Bacula, Jira, Confluence.
+Hard: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, Zabbix, Grafana, MySQL, Bacula, Jira, Confluence.
 
 Soft: Team player, constant learning, can work independently and take responsibility, plan work time and set priorities.
