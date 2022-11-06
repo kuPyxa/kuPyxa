@@ -46,9 +46,13 @@ I am constantly learning, sharing and learning from experience.
 
 2000 - 2005 | Specialist’s
 
-Faculty of Information Technology and Business
+Faculty of Information Technology and Business | Engineer specializing in information measuring technology
 
-Engineer specializing in information measuring technology
+---
+
+### Certifications
+
+[Create web services in Python](https://www.coursera.org/account/accomplishments/certificate/4FB8ZBHQSPS5) | [OOP and Design Patterns in Python](https://www.coursera.org/account/accomplishments/certificate/QWGTFQAK6A8Y) | [Dive into Python](https://www.coursera.org/account/accomplishments/certificate/PNCDRYJBHX84)
 
 ---
 
@@ -60,6 +64,6 @@ Engineer specializing in information measuring technology
 
 ### Skills
 
-Hard: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, Zabbix, Grafana, MySQL, Bacula, Jira, Confluence.
+**Hard**: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, Zabbix, Grafana, MySQL, Bacula, Jira, Confluence.
 
-Soft: Team player, constant learning, can work independently and take responsibility, plan work time and set priorities.
+**Soft**: Team player, constant learning, can work independently and take responsibility, plan work time and set priorities.
