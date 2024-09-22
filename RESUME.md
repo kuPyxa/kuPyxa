@@ -24,9 +24,8 @@ I am constantly learning, sharing and learning from experience.
 
 - maintain Content Delivery Network (self-hosted, Akamai, Huawei, Alibaba);
 - optimized the service capacity by reducing the number of servers (and the costs for them accordingly);
-- monitoring service were provided for the Telecom team, training was conducted;
-- mentoring: brought two new people into the team, managed to transfer knowledge so that the guys quickly joined the
-  team and began to independently support and develop their services;
+- supporting the Telecom team in the transition to an open source monitoring system;
+- mentored two new team members, enabling them to quickly integrate and independently support and develop services;
 
 08/2017 - 03/2022 | System Engineer
 
