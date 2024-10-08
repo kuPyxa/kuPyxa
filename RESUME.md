@@ -23,6 +23,8 @@ I am constantly learning, sharing and learning from experience.
 04/2022 - present | Senior System Engineer
 
 - maintain Content Delivery Network (self-hosted, Akamai, Huawei, Alibaba);
+- writing infrastructure audit tools in Python (vulnerabilities, inventory, misconfiguration), writing automation
+  scripts to integrate different systems with each other;
 - optimized the service capacity by reducing the number of servers (and the costs for them accordingly);
 - supporting the Telecom team in the transition to an open source monitoring system;
 - mentored two new team members, enabling them to quickly integrate and independently support and develop services;
@@ -31,7 +33,8 @@ I am constantly learning, sharing and learning from experience.
 
 - writing Python programs to audit infrastructure (vulnerabilities, inventory, misconfiguration);
 - creating service repositories on FreeBSD (using upstream ports, creating custom ports, reporting bugs);
-- installing, configuring and maintaining a monitoring system from scratch (integrating with CMDB, creating templates, data aggregation);
+- installing, configuring and maintaining a monitoring system from scratch (integrating with CMDB, creating templates,
+  data aggregation);
 - maintaining continuous integration (CI) and continuous delivery (CD) environments;
 - support system of interaction of products with each other (queues, in-memory database, balancers).
 
@@ -57,7 +60,10 @@ Faculty of Information Technology and Business | Engineer specializing in inform
 
 ### Certifications
 
-[DevOps for Development and Operations](certificates/Certificate_ENG_Varnakov_2024-6976-008.pdf) | [Create web services in Python](https://www.coursera.org/account/accomplishments/certificate/4FB8ZBHQSPS5) | [OOP and Design Patterns in Python](https://www.coursera.org/account/accomplishments/certificate/QWGTFQAK6A8Y) | [Dive into Python](https://www.coursera.org/account/accomplishments/certificate/PNCDRYJBHX84)
+[DevOps for Development and Operations](certificates/Certificate_ENG_Varnakov_2024-6976-008.pdf) |
+[Create web services in Python](https://www.coursera.org/account/accomplishments/certificate/4FB8ZBHQSPS5) |
+[OOP and Design Patterns in Python](https://www.coursera.org/account/accomplishments/certificate/QWGTFQAK6A8Y) |
+[Dive into Python](https://www.coursera.org/account/accomplishments/certificate/PNCDRYJBHX84)
 
 ---
 
@@ -69,6 +75,8 @@ Faculty of Information Technology and Business | Engineer specializing in inform
 
 ### Skills
 
-**Hard**: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, Zabbix, Grafana, MySQL, Bacula, Jira, Confluence.
+**Hard**: DevOps, Infrastructure as a Code, *nix-like OS (FreeBSD, Ubuntu), Jails, Ansible, Python, Jenkins, Zabbix,
+Grafana, MySQL, Bacula, Jira, Confluence.
 
-**Soft**: Team player, constant learning, can work independently and take responsibility, plan work time and set priorities.
+**Soft**: Team player, constant learning, can work independently and take responsibility, plan work time and set
+priorities.
