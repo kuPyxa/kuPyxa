@@ -10,17 +10,24 @@
 
 ### Summary
 
-Extensive experience in server administration, using open source software, interacting with the community.
-I use modern approaches to solving problems, try to automate routine tasks as much as possible.
-I am constantly learning, sharing and learning from experience.
+Extensive experience in server administration with a strong focus on open-source software and community engagement.
+I apply modern problem-solving approaches and prioritize automation to reduce manual tasks. Committed to continuous
+learning, I actively share knowledge and learn from others.
 
 ---
 
 ### Experience
 
+#### T-Bank (ex. Tinkoff)
+
+01/2025 - present | Senior Engineer
+
+Responsible for infrastructure management supporting mobile application builds - primarily targeting iOS/macOS
+environments, with supplementary support for Android build pipelines.
+
 #### Kaspersky
 
-04/2022 - present | Senior System Engineer
+04/2022 - 01/2025 | Senior System Engineer
 
 - maintain Content Delivery Network (self-hosted, Akamai, Huawei, Alibaba);
 - writing infrastructure audit tools in Python (vulnerabilities, inventory, misconfiguration), writing automation
